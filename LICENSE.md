@@ -23,7 +23,7 @@ SOFTWARE.
 
 
 
-**Additional terms for international organizations** 
+## Additional Terms for International Organizations
  
 Where the Licensor is an intergovernmental organization (IGO), the following additional terms shall apply:
 
