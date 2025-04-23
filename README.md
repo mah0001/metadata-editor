@@ -36,5 +36,5 @@ see [Documentation](https://ihsn.github.io/editor/#/)
 
 ## License
 
-Code released under [MIT license](LICENSE.md) with additional terms for international organizations.
+Code released under [MIT license with additional terms for international organizations](LICENSE.md).
 
